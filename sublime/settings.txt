@@ -1,0 +1,9 @@
+{
+	"color_scheme": "Packages/gruvbox/gruvbox (Dark) (Hard).sublime-color-scheme",
+	"font_face": "Terminus Bold",
+	"font_size": 12,
+	"ignored_packages":
+	[
+	],
+	"theme": "gruvbox.sublime-theme"
+}
